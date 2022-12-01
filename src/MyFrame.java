@@ -13,7 +13,7 @@ public class MyFrame implements ActionListener{
         JFrame frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("Specify a file to save");
-        frame.setLocationRelativeTo(null);
+        frame.setLocationRelativeTo(null); 
         frame.setLayout(new FlowLayout());
 
         JButton btn = new JButton("Upload file");

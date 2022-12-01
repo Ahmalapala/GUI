@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 import javax.swing.SwingConstants;
-
+import java.awt.Image;
 import java.awt.Color;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
